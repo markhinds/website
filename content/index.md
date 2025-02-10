@@ -1,28 +1,25 @@
 ---
-title: Welcome, let's backpropagate together!
+title: the surest kind of knowledge is what you construct yourself. - Judea Pearl
 date: 1
 ---
-Hi there 👋, I'm Nikhil.
 
-In my day-job, I work as lighting engineer with expertise in lighting components and controls. All fields (even lighting) are converging towards Tech and I hope to contribute in the near future to bridge this gap.
+I'm Mark.
 
-While I try to enjoy my time in lighting, I also pursue a part-time MS degree through Georgia Tech's [[current-coursework]]. My time in the program has gotten me deeply intrigued into mathematics, machine learning and all things Bayesian. In my free time, I try to update my *inductive priors* on these topics as much as possible. 🙃
-# Backprogating? What are you talking about?
-In machine learning, [backpropagation](https://en.wikipedia.org/wiki/Backpropagation) is a technique to update the weights of a neural network. In the same way, this site aims to be an archive of posts and notes that help you update the weights of your brain.
+I'm currently a graduate research assistant at Los Alamos National Laboratory in the statistical science group working on UQ and XAI in planetary sciences. I'm pursuing my Masters in Computer Science at Georgia Institute of Technology while Statistics at Colorado State University. I'm interested in contributing to probabilistic machine learning, uncertainty quanitifcation, model explainability and causal inference. In my free time, I try to update my inductive priors on these topics as much as possible.
 
 # Locations
-Below are some locations you could explore.
-- **Adventures at MS**: [[masters]]
-	- [Machine Learning](/tags/machine-learning)
-	- [Deep Learning](tags/deep-learning)
-	- [Projects](#) (WIP)
+Explore me ran
+- **Topics**:
+	- [Deep Learning](/tags/dl)
+	- [Uncertainty Quanification](tags/uq)
+	- [XAI](/tags/xai)
+	- [Causality](/tags/causality)
+  	- [NLP](/tags/nlp)
 	
-- **Work is Fun**: [[lighting]] (WIP)
-
-- **Life Struggles Never End**: [[life]]
+- **Research**: [LANL](/tags/lanl)
 
 # Contact
-Feel free to drop me an email at [info@nkapila.me](mailto:info@nkapila.me)
+Feel free to drop me an email at [hindsma25@gmail.com](hindsma25@gmail.com)
 
 ---
 
